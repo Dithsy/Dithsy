@@ -6,7 +6,7 @@
 - 🧡 I love travelling, sci-fi 
 - 💬 Ask me about ...
 - 📫 How to find me:
--       🏢 (https://www.linkedin.com/in/edith-agoroh-085373b9)
+-       🏢 [LinkedIn](https://www.linkedin.com/in/edith-agoroh-085373b9/)
 
 [![Dithsy's github stats](https://github-readme-stats.vercel.app/api?username=Dithsy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Dithsy/github-readme-stats)
 
