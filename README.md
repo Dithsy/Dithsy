@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on becoming a software engineer
 - 🌱 I’m currently learning through Alx-Holberton school
-- 👯 I’m looking to collaborate on ...
 - 🧡 I love travelling, sci-fi 
-- 💬 Ask me about ...
 - 📫 How to find me:
 -    🏢: [LinkedIn](https://www.linkedin.com/in/edith-agoroh-085373b9)
 
